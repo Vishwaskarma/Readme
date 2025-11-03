@@ -1,23 +1,31 @@
+<img src="https://raw.githubusercontent.com/HimanshuVishwakarma/HimanshuVishwakarma/main/assets/banner.jpg" alt="AgroTech Banner" width="100%"/>
+
 <div align="center">
-  
-<img src="https://raw.githubusercontent.com/HimanshuVishwakarma/HimanshuVishwakarma/main/assets/banner.jpg" alt="Banner" width="100%"/>
 
-# 👋 Hi, I'm Himanshu Vishwakarma
+# Hi, I'm Himanshu Vishwakarma 🌾
 
-### 🚀 Senior Full Stack Developer @ MAIDC
-*Architecting the future of agriculture through innovative digital solutions*
+**Senior Full Stack Developer @ MAIDC**  
+*Building MahaaGromart — connecting farmers to markets with code.*
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-vishwakarma-856773239/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshuvishwakarma383@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/himanshu-vishwakarma-856773239/?originalSubdomain=in)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square)](mailto:himanshuvishwakarma383@gmail.com)
 
 </div>
 
 ---
 
-## 🌾 About Me
+### Currently Working On
+> **MahaaGromart** — Real-time agro supply chain
 
-Building **MahaaGromart** — a revolutionary real-time farmer-to-buyer supply chain platform that's transforming agricultural commerce. I specialize in crafting scalable, high-performance full-stack applications that solve real-world problems.
+- **Frontend**: Next.js (SSR, App Router)
+- **Backend**: .NET Core 8
+- **Cache**: Redis
+- **CI/CD**: Jenkins
+- **DB**: PostgreSQL + SQL Server
 
+---
+
+### Tech Stack
+
+```text
+Next.js ● .NET Core ● Redis ● Jenkins ● Docker ● TypeScript ● Tailwind
